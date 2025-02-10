@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|c:\\users\\dudub\\source\\repos\\webapplicationtest\\webapplicationtest\\routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|solutionrelative:webapplicationtest\\routes\\personroutes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|c:\\users\\dudub\\source\\repos\\webapplicationtest\\webapplicationtest\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|solutionrelative:webapplicationtest\\data\\personcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|c:\\users\\dudub\\source\\repos\\webapplicationtest\\webapplicationtest\\models\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|solutionrelative:webapplicationtest\\models\\personrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|c:\\users\\dudub\\source\\repos\\webapplicationtest\\webapplicationtest\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|solutionrelative:webapplicationtest\\models\\personmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|c:\\users\\dudub\\source\\repos\\webapplicationtest\\webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ACAD198A-9F9B-492B-8672-0850162FED2D}|WebApplicationTest\\Person.csproj|solutionrelative:webapplicationtest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Program.cs",
+              "ToolTip": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Program.cs",
+              "RelativeToolTip": "WebApplicationTest\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T13:37:01.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonModel.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Models\\PersonModel.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\PersonModel.cs",
+              "ToolTip": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Models\\PersonModel.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\PersonModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T23:09:38.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Models\\PersonRequest.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Models\\PersonRequest.cs",
+              "ToolTip": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Models\\PersonRequest.cs",
+              "RelativeToolTip": "WebApplicationTest\\Models\\PersonRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T01:14:30.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonContext.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Data\\PersonContext.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Data\\PersonContext.cs",
+              "ToolTip": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Data\\PersonContext.cs",
+              "RelativeToolTip": "WebApplicationTest\\Data\\PersonContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T00:53:50.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRoutes.cs",
+              "DocumentMoniker": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Routes\\PersonRoutes.cs",
+              "RelativeDocumentMoniker": "WebApplicationTest\\Routes\\PersonRoutes.cs",
+              "ToolTip": "C:\\Users\\dudub\\source\\repos\\WebApplicationTest\\WebApplicationTest\\Routes\\PersonRoutes.cs",
+              "RelativeToolTip": "WebApplicationTest\\Routes\\PersonRoutes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-09T22:52:30.488Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
